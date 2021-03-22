@@ -60,7 +60,7 @@ if ( isset( $post_settings["fields"]["type"] ) && sizeof( $post_settings["fields
                                             </div>
                                             <div>
                                                 <img class="dt-icon" src="<?php echo esc_html( get_template_directory_uri() . '/dt-assets/images/visibility.svg' ) ?>"/>
-                                                 <?php echo esc_html( $type_option["visibility"] ?? "" ); ?>
+                                                <?php echo esc_html( $type_option["visibility"] ?? "" ); ?>
                                             </div>
                                             <div>
                                                 <img class="dt-icon" src="<?php echo esc_html( get_template_directory_uri() . '/dt-assets/images/help.svg' ) ?>"/>
@@ -115,6 +115,9 @@ if ( isset( $post_settings["fields"]["type"] ) && sizeof( $post_settings["fields
                         <div id="show-shield-banner" style="text-align: center; background-color:rgb(236, 245, 252);margin: 3px -15px 15px -15px;">
                             <a class="button clear" id="show-hidden-fields" style="margin:0;padding:3px 0; width:100%">
                                 <?php esc_html_e( 'Show all fields', 'disciple_tools' ); ?>
+                            </a>
+                            <a class="button clear" id="hide-hidden-fields" style="margin:0;padding:3px 0; width:100%">
+                                <?php esc_html_e( 'Hide fields', 'disciple_tools' ); ?>
                             </a>
                         </div>
 
