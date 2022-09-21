@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/disciple-tools-"
 "theme\n"
 "POT-Creation-Date: 2022-05-05T15:45:48+00:00\n"
-"PO-Revision-Date: 2022-09-21 16:18+0000\n"
+"PO-Revision-Date: 2022-09-22 13:16+0000\n"
 "Last-Translator: Prykon <dario@gospelambition.org>\n"
 "Language-Team: Spanish (Latin America) <https://translate.disciple.tools/"
 "projects/disciple-tools/disciple-tools-theme/es_419/>\n"
@@ -2966,7 +2966,7 @@ msgstr "Seleccionar"
 
 #: dt-groups/base-setup.php:592
 msgid "To add new members, click on 'Create' or 'Select'."
-msgstr "Para agregar nuevos miembros, haga click en 'Crear' or 'Seleccionar'."
+msgstr "Para agregar miembros nuevos, haz clic en 'Crear' o 'Seleccionar'."
 
 #: dt-groups/base-setup.php:598
 msgctxt "Add members modal"
@@ -3804,7 +3804,7 @@ msgstr "Una forma útil de agrupar elementos relacionados."
 
 #: dt-posts/custom-post-type.php:193
 msgid "Un-Follow"
-msgstr "Dejar de  Seguir"
+msgstr "Dejar de Seguir"
 
 #: dt-posts/dt-posts.php:1133
 msgid "Magic Link Submission"
