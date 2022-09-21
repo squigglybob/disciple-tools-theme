@@ -4,12 +4,16 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/disciple-tools-"
 "theme\n"
 "POT-Creation-Date: 2022-05-05T15:45:48+00:00\n"
-"Language: es-419\n"
+"PO-Revision-Date: 2022-09-21 16:18+0000\n"
+"Last-Translator: Prykon <dario@gospelambition.org>\n"
+"Language-Team: Spanish (Latin America) <https://translate.disciple.tools/"
+"projects/disciple-tools/disciple-tools-theme/es_419/>\n"
+"Language: es_419\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: POEditor.com\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #. Theme Name of the theme
 msgid "Disciple Tools"
@@ -215,7 +219,7 @@ msgstr ""
 #: dt-core/global-functions.php:894
 msgctxt "input field placeholder"
 msgid "Search Users"
-msgstr "Buscar usuarios"
+msgstr "Buscar Usuarios"
 
 #: archive-template.php:380 dt-metrics/groups/tree.php:87
 #: dt-metrics/personal/group-tree.php:88 dt-posts/dt-posts.php:1586
@@ -1857,7 +1861,7 @@ msgstr "Email"
 #: dt-contacts/base-setup.php:239 dt-groups/base-setup.php:364
 msgctxt "Optional Documentation"
 msgid "The general location where this contact is located."
-msgstr "La ubicación general en la cual se encuentra este contacto."
+msgstr "La ubicación general en donde se encuentra el contacto."
 
 #: dt-contacts/base-setup.php:247 dt-groups/base-setup.php:373
 msgid "Locations or Address"
@@ -1973,7 +1977,7 @@ msgstr "Archivo"
 #: dt-core/configuration/config-site-defaults.php:551
 #: dt-groups/base-setup.php:633 template-settings.php:199
 msgid "Other"
-msgstr "Otro"
+msgstr "Otros"
 
 #: dt-contacts/base-setup.php:533 dt-groups/base-setup.php:1005
 msgid "Default Filters"
@@ -2261,7 +2265,7 @@ msgstr "A quién ha bautizado este contacto"
 #: dt-contacts/dmm-module.php:212 dt-groups/base-setup.php:403
 #: dt-people-groups/people-groups-post-type.php:132
 msgid "People Groups"
-msgstr "Étnias"
+msgstr "Etnias"
 
 #: dt-contacts/dmm-module.php:213
 msgctxt "Optional Documentation"
@@ -2798,7 +2802,7 @@ msgstr "Este grupo se comprometió a ser una congregación."
 #: dt-groups/base-setup.php:257 dt-users/template-user-management.php:324
 #: template-settings.php:423 template-settings.php:442
 msgid "Start Date"
-msgstr "Fecha de inicio"
+msgstr "Fecha de Inicio"
 
 #: dt-groups/base-setup.php:258
 msgctxt "Optional Documentation"
@@ -2819,7 +2823,7 @@ msgstr ""
 #: dt-groups/base-setup.php:274 dt-users/template-user-management.php:325
 #: template-settings.php:429 template-settings.php:443
 msgid "End Date"
-msgstr "Fecha de cierre"
+msgstr "Fecha de Finalización"
 
 #: dt-groups/base-setup.php:275
 msgctxt "Optional Documentation"
@@ -2846,7 +2850,7 @@ msgstr ""
 #: dt-groups/base-setup.php:294 dt-groups/base-setup.php:579
 #: dt-groups/base-setup.php:623
 msgid "Member List"
-msgstr "Listado de miembros"
+msgstr "Lista de Miembros"
 
 #: dt-groups/base-setup.php:295
 msgctxt "Optional Documentation"
@@ -3800,7 +3804,7 @@ msgstr "Una forma útil de agrupar elementos relacionados."
 
 #: dt-posts/custom-post-type.php:193
 msgid "Un-Follow"
-msgstr "Dejar de seguir"
+msgstr "Dejar de  Seguir"
 
 #: dt-posts/dt-posts.php:1133
 msgid "Magic Link Submission"
@@ -4180,7 +4184,7 @@ msgstr ""
 
 #: dt-reports/magic-url-setup.php:113
 msgid "Add email address"
-msgstr ""
+msgstr "Agregar dirección de email"
 
 #: dt-reports/magic-url-setup.php:114
 msgid "Add a note"
@@ -4820,7 +4824,7 @@ msgstr ""
 
 #: template-new-post.php:45
 msgid "Add Bulk Records?"
-msgstr ""
+msgstr "Agregar Registros en Masa?"
 
 #: template-new-post.php:146
 msgid "Show all fields"
