@@ -1,12 +1,17 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: Disciple.Tools\n"
+"PO-Revision-Date: 2022-09-21 15:51+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Arabic <https://translate.disciple.tools/projects/"
+"disciple-tools/disciple-tools-theme/ar/>\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: POEditor.com\n"
-"Project-Id-Version: Disciple.Tools\n"
-"Language: ar\n"
-"Plural-Forms: nplurals=6; plural= n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: 403.php:22
 msgid "Permission denied"
@@ -691,7 +696,9 @@ msgstr "تم نقله إلى %s"
 
 #: dt-contacts/contacts-transfer.php:278
 msgid "NOTE: You have already transferred this contact. Transferring again might create duplicates. Do you still want to override this warning and continue with your transfer?"
-msgstr "معلومة: لقد قمت بنقل هذا المتصل. إعادة نقله مرة أخرى يمكنها إنشاء تكرار. هل ترغب في تجاهل هذا التنبيه ومواصلة النقل؟"
+msgstr ""
+"معلومة: لقد قمت بنقل هذا المتصل. إعادة نقله مرة أخرى يمكنها إنشاء تكرار. هل "
+"ترغب في تجاهل هذا التنبيه ومواصلة النقل؟"
 
 #: dt-contacts/contacts-transfer.php:282
 msgid "Override and Continue"
@@ -783,7 +790,9 @@ msgstr "المراحل التي مر بها جهة الاتصال ومقاييس
 
 #: dt-core/configuration/config-site-defaults.php:407
 msgid "This contact is active but there is no record of anybody contacting them. Please do contact them."
-msgstr "هذا الشخص في حالة ناشط ولكن لا يوجد أي أحد أو تسجيل يدل على التواصل معه. من فضلك الاتصال"
+msgstr ""
+"هذا الشخص في حالة ناشط ولكن لا يوجد أي أحد أو تسجيل يدل على التواصل معه. من "
+"فضلك الاتصال"
 
 #: dt-core/configuration/config-site-defaults.php:413
 msgid "Please try connecting with this contact again."
@@ -795,11 +804,14 @@ msgstr "من فضلك محاولة الاتصال مرة اخرى"
 #: dt-core/configuration/config-site-defaults.php:437
 #: dt-core/configuration/config-site-defaults.php:443
 msgid "We haven't heard about this person in a while. Do you have an update for this contact?"
-msgstr "لم نتلق أي تحديث عن هذا الشخص من فترة. هل يوجد أي تحديث يخص جهة الاتصال هذه؟"
+msgstr ""
+"لم نتلق أي تحديث عن هذا الشخص من فترة. هل يوجد أي تحديث يخص جهة الاتصال هذه؟"
 
 #: dt-core/configuration/config-site-defaults.php:453
 msgid "We haven't heard about this group in a while. Do you have an update?"
-msgstr "لم نتلق أي تحديث عن هذه المجموعة من فترة. هل يوجد أي تحديث يخص جهة الاتصال هذه؟"
+msgstr ""
+"لم نتلق أي تحديث عن هذه المجموعة من فترة. هل يوجد أي تحديث يخص جهة الاتصال "
+"هذه؟"
 
 #: dt-assets/functions/details-bar.php:75
 #: dt-assets/functions/details-bar.php:124
@@ -1376,7 +1388,9 @@ msgstr "يجب تمكين جافا سكريبت حتى يعمل هذا المو�
 
 #: header.php:84
 msgid "You seem to be using an out-of-date web browser. Without the most up-to-date version of your browser, this may site may not function correctly. Please note that Internet Explorer is not supported."
-msgstr "يبدو أنك تستخدم متصفح ويب قديم. بدون أحدث إصدار من متصفحك ، قد لا يعمل هذا الموقع بشكل صحيح. يرجى ملاحظة أن Internet Explorer غير مدعوم."
+msgstr ""
+"يبدو أنك تستخدم متصفح ويب قديم. بدون أحدث إصدار من متصفحك ، قد لا يعمل هذا "
+"الموقع بشكل صحيح. يرجى ملاحظة أن Internet Explorer غير مدعوم."
 
 #: header.php:86
 msgid "See what browser you are using."
@@ -1441,7 +1455,9 @@ msgstr "دمج جهات الاتصال المكررة"
 
 #: template-merge-details.php:112
 msgid "When you merge, the master record is updated with the values you choose, and relationships to other items are shifted to the master record"
-msgstr "عند الدمج ، يتم تحديث السجل الرئيسي بالقيم التي تختارها ، ويتم نقل العلاقات بالعناصر الأخرى إلى السجل الرئيسي"
+msgstr ""
+"عند الدمج ، يتم تحديث السجل الرئيسي بالقيم التي تختارها ، ويتم نقل العلاقات "
+"بالعناصر الأخرى إلى السجل الرئيسي"
 
 #: template-merge-details.php:131
 #: template-merge-details.php:149
@@ -1544,7 +1560,11 @@ msgstr "تمكين"
 
 #: template-settings.php:577
 msgid "Disciple Tools System does not store images. For profile images we use Gravatar (Globally Recognized Avatar). If you have security concerns, we suggest not using a personal photo, but instead choose a cartoon, abstract, or alias photo to represent you."
-msgstr "لا يقوم نظام Disciple Tools بتخزين الصور. بالنسبة لصور الملف الشخصي ، نستخدم Gravatar (الصورة الرمزية المعترف بها عالميًا). إذا كانت لديك مخاوف أمنية ، نقترح عدم استخدام صورة شخصية ، ولكن بدلاً من ذلك اختر صورة كرتونية أو مجردة أو اسم مستعار لتمثيلك."
+msgstr ""
+"لا يقوم نظام Disciple Tools بتخزين الصور. بالنسبة لصور الملف الشخصي ، نستخدم "
+"Gravatar (الصورة الرمزية المعترف بها عالميًا). إذا كانت لديك مخاوف أمنية ، "
+"نقترح عدم استخدام صورة شخصية ، ولكن بدلاً من ذلك اختر صورة كرتونية أو مجردة "
+"أو اسم مستعار لتمثيلك."
 
 #: template-settings.php:578
 msgid "edit image on gravatar.com"
@@ -1642,7 +1662,9 @@ msgstr "جهات اتصال نشطة ، بحسب المصدر ومسار الب�
 
 #: dt-metrics/contacts/sources.php:98
 msgid "A contact can come from more than one source, and it can have more than one faith milestone at the same time."
-msgstr "يمكن أن تأتي جهة الاتصال من أكثر من مصدر واحد ، ويمكن أن يكون لها أكثر من حدث إيماني واحد في نفس الوقت."
+msgstr ""
+"يمكن أن تأتي جهة الاتصال من أكثر من مصدر واحد ، ويمكن أن يكون لها أكثر من "
+"حدث إيماني واحد في نفس الوقت."
 
 #: dt-metrics/groups/overview.php:77
 #: dt-metrics/personal/overview.php:73
@@ -1731,7 +1753,9 @@ msgstr "لدي الكثير من جهات الاتصال"
 
 #: template-settings.php:413
 msgid "Set the dates you will be traveling or unavailable so the Dispatcher will know your availability to receive new contacts"
-msgstr "قم بتعيين التواريخ التي ستسافر إليها أو غير متاحة حتى يعرف المرسل مدى تواجدك لتلقي جهات اتصال جديدة"
+msgstr ""
+"قم بتعيين التواريخ التي ستسافر إليها أو غير متاحة حتى يعرف المرسل مدى تواجدك "
+"لتلقي جهات اتصال جديدة"
 
 #: template-settings.php:417
 msgid "Schedule Travel or Dates Unavailable"
@@ -1776,7 +1800,9 @@ msgstr "عدد جهات الاتصال حيث تم تعيين %s على مسار
 
 #: dt-metrics/combined/critical-path.php:260
 msgid "Number of baptized contact with a baptism date in date range and baptized by connection"
-msgstr "عدد جهات الاتصال التي تم تعميدها بتاريخ المعمودية في النطاق الزمني وعمد بواسطة اتصال"
+msgstr ""
+"عدد جهات الاتصال التي تم تعميدها بتاريخ المعمودية في النطاق الزمني وعمد "
+"بواسطة اتصال"
 
 #: dt-metrics/combined/critical-path.php:277
 msgid "Generation %s Baptisms"
@@ -1800,7 +1826,8 @@ msgstr "عدد جيل كنائس %s في نهاية النطاق الزمني"
 
 #: dt-metrics/combined/critical-path.php:333
 msgid "Number of contacts or users who have started a church and are marked as the church coach"
-msgstr "عدد جهات الاتصال أو المستخدمين الذين بدأوا كنيسة وتم تعليمهم كمدرب الكنيسة"
+msgstr ""
+"عدد جهات الاتصال أو المستخدمين الذين بدأوا كنيسة وتم تعليمهم كمدرب الكنيسة"
 
 #: dt-notifications/notifications.php:913
 msgctxt "You have been assigned: contact1."
@@ -1867,7 +1894,9 @@ msgstr "لا تريد جهة الاتصال هذه إكمال التواصل أ�
 #: dt-contacts/access-module.php:126
 msgctxt "Seeker Path field description"
 msgid "Set the status of your progression with the contact. These are the steps that happen in a specific order to help a contact move forward."
-msgstr "تعيين حالة تقدمك مع جهة الاتصال. هذه هي الخطوات التي تحدث في ترتيب معين لمساعدة جهة اتصال على المضي قدمًا."
+msgstr ""
+"تعيين حالة تقدمك مع جهة الاتصال. هذه هي الخطوات التي تحدث في ترتيب معين "
+"لمساعدة جهة اتصال على المضي قدمًا."
 
 #: dt-contacts/access-module.php:244
 msgctxt "Reason Paused label"
@@ -2377,19 +2406,26 @@ msgstr "أيقونات حالة عبء عمل المستخدم:"
 #: dt-assets/parts/modals/modal-help.php:14
 msgctxt "Optional Documentation"
 msgid "These quick action buttons are here to aid you in updating the contact record faster and keep a count of how many times each action has be done."
-msgstr "توجد أزرار الإجراءات السريعة هذه لمساعدتك في تحديث سجل جهات الاتصال بشكل أسرع والاحتفاظ بعدد المرات التي تم فيها تنفيذ كل إجراء."
+msgstr ""
+"توجد أزرار الإجراءات السريعة هذه لمساعدتك في تحديث سجل جهات الاتصال بشكل "
+"أسرع والاحتفاظ بعدد المرات التي تم فيها تنفيذ كل إجراء."
 
 #: dt-assets/parts/modals/modal-help.php:15
 msgctxt "Optional Documentation"
 msgid "For example, If you click the 'No Answer' button 4 times, we will log that you attempted to reach this contact 4 times, but they did not answer.\n"
 "                This action will also change the 'Seeker Path' to 'Contact Attempted'."
-msgstr "على سبيل المثال ، إذا قمت بالنقر فوق الزر \"لا إجابة\" 4 مرات ، فسوف نسجل أنك حاولت الوصول إلى جهة الاتصال هذه 4 مرات ، لكنهم لم يردوا.\n"
-"                 سيؤدي هذا الإجراء أيضًا إلى تغيير \"مسار الباحث\" إلى \"محاولة الاتصال\"."
+msgstr ""
+"على سبيل المثال ، إذا قمت بالنقر فوق الزر \"لا إجابة\" 4 مرات ، فسوف نسجل "
+"أنك حاولت الوصول إلى جهة الاتصال هذه 4 مرات ، لكنهم لم يردوا.\n"
+"                 سيؤدي هذا الإجراء أيضًا إلى تغيير \"مسار الباحث\" إلى "
+"\"محاولة الاتصال\"."
 
 #: dt-groups/base-setup.php:629
 msgctxt "Optional Documentation"
 msgid "There are 5 squares in the Four Fields diagram. Starting in the top left quadrant and going clockwise and the fifth being in the middle, they stand for:"
-msgstr "هناك 5 مربعات في مخطط الحقول الأربعة. بدءًا من الربع العلوي الأيسر والذهاب باتجاه عقارب الساعة والخامس في المنتصف ، فإنهم يمثلون:"
+msgstr ""
+"هناك 5 مربعات في مخطط الحقول الأربعة. بدءًا من الربع العلوي الأيسر والذهاب "
+"باتجاه عقارب الساعة والخامس في المنتصف ، فإنهم يمثلون:"
 
 #: dt-assets/parts/modals/modal-help.php:43
 msgctxt "Optional Documentation"
@@ -2399,22 +2435,29 @@ msgstr "هذا هو المكان الذي يمكنك فيه تسجيل المل�
 #: dt-assets/parts/modals/modal-help.php:44
 msgctxt "Optional Documentation"
 msgid "Type @ and the name of a user to mention them in a comment. This user will then receive a notification."
-msgstr "اكتب @ واسم مستخدم لذكرها في تعليق. سيتلقى هذا المستخدم بعد ذلك إشعارًا."
+msgstr ""
+"اكتب @ واسم مستخدم لذكرها في تعليق. سيتلقى هذا المستخدم بعد ذلك إشعارًا."
 
 #: dt-assets/parts/modals/modal-help.php:45
 msgctxt "Optional Documentation"
 msgid "This section also includes the history of activity, such as when the contact or group status became active etc."
-msgstr "يتضمن هذا القسم أيضًا سجل النشاط ، مثل عندما تصبح حالة جهة الاتصال أو المجموعة نشطة وما إلى ذلك."
+msgstr ""
+"يتضمن هذا القسم أيضًا سجل النشاط ، مثل عندما تصبح حالة جهة الاتصال أو "
+"المجموعة نشطة وما إلى ذلك."
 
 #: dt-assets/parts/modals/modal-help.php:46
 msgctxt "Optional Documentation"
 msgid "You can filter this section either by 'All', 'Comments', or 'Activity'."
-msgstr "يمكنك تصفية هذا القسم إما عن طريق \"الكل\" أو \"التعليقات\" أو \"النشاط\"."
+msgstr ""
+"يمكنك تصفية هذا القسم إما عن طريق \"الكل\" أو \"التعليقات\" أو \"النشاط\"."
 
 #: dt-assets/parts/modals/modal-help.php:57
 msgctxt "Optional Documentation"
 msgid "Use these filters to focus in on the contacts or groups you are responsible for. If the default filters do not fit your needs you can create your own custom filter."
-msgstr "استخدم هذه التصفيات للتركيز على جهات الاتصال أو المجموعات التي أنت مسؤول عنها. إذا كانت التصفيات الافتراضية لا تتناسب مع احتياجاتك ، يمكنك إنشاء تصفية مخصصة خاصة بك."
+msgstr ""
+"استخدم هذه التصفيات للتركيز على جهات الاتصال أو المجموعات التي أنت مسؤول "
+"عنها. إذا كانت التصفيات الافتراضية لا تتناسب مع احتياجاتك ، يمكنك إنشاء "
+"تصفية مخصصة خاصة بك."
 
 #: dt-assets/parts/modals/modal-help.php:62
 msgctxt "Optional Documentation"
@@ -2424,7 +2467,12 @@ msgstr "تصفية جهات الاتصال"
 #: dt-assets/parts/modals/modal-help.php:63
 msgctxt "Optional Documentation"
 msgid "Your list of contacts will show up here. Whenever you filter contacts, the list will also be changed in this section too. You can sort your contacts by newest, oldest, most recently modified, and least recently modified. If you have a long list of contacts they will not all load at once, so clicking the 'Load more contacts' button at the bottom of the list will allow you to load more."
-msgstr "ستظهر قائمة جهات الاتصال الخاصة بك هنا. كلما قمت بتصفية جهات الاتصال ، سيتم أيضًا تغيير القائمة في هذا القسم أيضًا. يمكنك فرز جهات الاتصال حسب الأحدث والأقدم والأحدث والمعدل الأقل تعديلًا. إذا كانت لديك قائمة طويلة من جهات الاتصال ، فلن يتم تحميلها جميعًا مرة واحدة ، لذا فإن النقر فوق الزر \"تحميل المزيد من جهات الاتصال\" في أسفل القائمة سيسمح لك بتحميل المزيد."
+msgstr ""
+"ستظهر قائمة جهات الاتصال الخاصة بك هنا. كلما قمت بتصفية جهات الاتصال ، سيتم "
+"أيضًا تغيير القائمة في هذا القسم أيضًا. يمكنك فرز جهات الاتصال حسب الأحدث "
+"والأقدم والأحدث والمعدل الأقل تعديلًا. إذا كانت لديك قائمة طويلة من جهات "
+"الاتصال ، فلن يتم تحميلها جميعًا مرة واحدة ، لذا فإن النقر فوق الزر \"تحميل "
+"المزيد من جهات الاتصال\" في أسفل القائمة سيسمح لك بتحميل المزيد."
 
 #: dt-assets/parts/modals/modal-help.php:68
 msgctxt "Optional Documentation"
@@ -2434,17 +2482,24 @@ msgstr "مجموعة الفلترات"
 #: dt-assets/parts/modals/modal-help.php:69
 msgctxt "Optional Documentation"
 msgid "Your list of groups will show up here. Whenever you filter groups, the list will also be changed in this section too. You can sort your groups by newest, oldest, most recently modified, and least recently modified. If you have a long list of groups they will not all load at once, so clicking the 'Load more groups' button at the bottom of the list will allow you to load more."
-msgstr "ستظهر قائمة مجموعاتك هنا. كلما قمت بتصفية المجموعات ، سيتم أيضًا تغيير القائمة في هذا القسم. يمكنك فرز مجموعاتك بحسب الأحدث والأقدم والأحدث والمعدل الأقل تعديلًا. إذا كانت لديك قائمة طويلة من المجموعات فلن يتم تحميلها جميعًا مرة واحدة ، لذا فإن النقر فوق الزر \"تحميل المزيد من المجموعات\" في أسفل القائمة سيسمح لك بتحميل المزيد."
+msgstr ""
+"ستظهر قائمة مجموعاتك هنا. كلما قمت بتصفية المجموعات ، سيتم أيضًا تغيير "
+"القائمة في هذا القسم. يمكنك فرز مجموعاتك بحسب الأحدث والأقدم والأحدث والمعدل "
+"الأقل تعديلًا. إذا كانت لديك قائمة طويلة من المجموعات فلن يتم تحميلها جميعًا "
+"مرة واحدة ، لذا فإن النقر فوق الزر \"تحميل المزيد من المجموعات\" في أسفل "
+"القائمة سيسمح لك بتحميل المزيد."
 
 #: dt-assets/parts/modals/modal-help.php:75
 msgctxt "Optional Documentation"
 msgid "Use this toggle switch to either show or not show closed contacts in the list."
-msgstr "استخدم هذا المفتاح لإظهار جهات الاتصال المغلقة أو عدم إظهارها في القائمة."
+msgstr ""
+"استخدم هذا المفتاح لإظهار جهات الاتصال المغلقة أو عدم إظهارها في القائمة."
 
 #: dt-assets/parts/modals/modal-help.php:81
 msgctxt "Optional Documentation"
 msgid "Use this toggle switch to either show or not show inactive groups in the list."
-msgstr "استخدم هذا المفتاح لإظهار المجموعات غير النشطة في القائمة أو عدم إظهارها."
+msgstr ""
+"استخدم هذا المفتاح لإظهار المجموعات غير النشطة في القائمة أو عدم إظهارها."
 
 #: dt-assets/parts/modals/modal-help.php:96
 msgctxt "Optional Documentation"
@@ -2454,17 +2509,23 @@ msgstr "في هذه المنطقة يمكنك مشاهدة ملف تعريف ا�
 #: dt-assets/parts/modals/modal-help.php:97
 msgctxt "Optional Documentation"
 msgid "You are not required to fill out any of these profile fields. They are optional to meet your team’s needs."
-msgstr "لست مطالبًا بملء أي من حقول الملف الشخصي هذه. إنها اختيارية لتلبية احتياجات فريقك."
+msgstr ""
+"لست مطالبًا بملء أي من حقول الملف الشخصي هذه. إنها اختيارية لتلبية احتياجات "
+"فريقك."
 
 #: dt-assets/parts/modals/modal-help.php:98
 msgctxt "Optional Documentation"
 msgid "By clicking 'Edit', you will be able adjust things like the language that this system operates in."
-msgstr "بالنقر فوق \"تحرير\" ، ستتمكن من ضبط أشياء مثل اللغة التي يعمل بها هذا النظام."
+msgstr ""
+"بالنقر فوق \"تحرير\" ، ستتمكن من ضبط أشياء مثل اللغة التي يعمل بها هذا "
+"النظام."
 
 #: dt-assets/parts/modals/modal-help.php:104
 msgctxt "Optional Documentation"
 msgid "These are the areas you are responsible for. Clicking the 'Add' button will bring up a list of locations to choose from."
-msgstr "هذه هي المجالات التي أنت مسؤول عنها. سيؤدي النقر فوق الزر \"إضافة\" إلى ظهور قائمة بالمواقع للاختيار من بينها."
+msgstr ""
+"هذه هي المجالات التي أنت مسؤول عنها. سيؤدي النقر فوق الزر \"إضافة\" إلى ظهور "
+"قائمة بالمواقع للاختيار من بينها."
 
 #: dt-assets/parts/modals/modal-help.php:109
 msgctxt "Optional Documentation"
@@ -2474,7 +2535,9 @@ msgstr "إشعارات"
 #: dt-assets/parts/modals/modal-help.php:110
 msgctxt "Optional Documentation"
 msgid "You will receive web notifications and email notifications based on your notification preferences. To change your preference, click the toggle buttons."
-msgstr "سوف تتلقى إشعارات الويب وإشعارات البريد الإلكتروني بناءً على تفضيلات الإخطار الخاصة بك. لتغيير التفضيلات الخاصة بك ، انقر فوق أزرار التبديل."
+msgstr ""
+"سوف تتلقى إشعارات الويب وإشعارات البريد الإلكتروني بناءً على تفضيلات الإخطار "
+"الخاصة بك. لتغيير التفضيلات الخاصة بك ، انقر فوق أزرار التبديل."
 
 #: dt-assets/parts/modals/modal-help.php:112
 msgctxt "Optional Documentation"
@@ -2494,7 +2557,10 @@ msgstr "لا يمكن تعديل بعض أنواع الإشعارات لأنها
 #: dt-assets/parts/modals/modal-help.php:116
 msgctxt "Optional Documentation"
 msgid "Adjust whether you want to see notifications about new comments, contact information changes, Contact Milestones and Group Health metrics, and whether to you will receive a notification for any update that happens in the system."
-msgstr "قم بتعديل ما إذا كنت تريد الاطلاع على إشعارات حول التعليقات الجديدة ، وتغييرات معلومات الاتصال ، ومراحل جهة الاتصال ومقاييس صحة المجموعة ، وما إذا كنت ستتلقى إشعارًا بأي تحديث يحدث في النظام."
+msgstr ""
+"قم بتعديل ما إذا كنت تريد الاطلاع على إشعارات حول التعليقات الجديدة ، "
+"وتغييرات معلومات الاتصال ، ومراحل جهة الاتصال ومقاييس صحة المجموعة ، وما إذا "
+"كنت ستتلقى إشعارًا بأي تحديث يحدث في النظام."
 
 #: dt-assets/parts/modals/modal-help.php:124
 msgctxt "Optional Documentation"
@@ -2504,7 +2570,9 @@ msgstr "إشعارات"
 #: dt-assets/parts/modals/modal-help.php:125
 msgctxt "Optional Documentation"
 msgid "This Notifications Page is where you can read updates to users and groups. It displays notifications about activity on your records."
-msgstr "صفحة الإشعارات هذه هي المكان الذي يمكنك فيه قراءة التحديثات للمستخدمين والمجموعات. يعرض إشعارات حول النشاط في سجلاتك."
+msgstr ""
+"صفحة الإشعارات هذه هي المكان الذي يمكنك فيه قراءة التحديثات للمستخدمين "
+"والمجموعات. يعرض إشعارات حول النشاط في سجلاتك."
 
 #: dt-assets/parts/modals/modal-help.php:126
 msgctxt "Optional Documentation"
@@ -2524,12 +2592,19 @@ msgstr "انقر فوق الزر \"غير مقروء\" لإظهار قائمة �
 #: dt-assets/parts/modals/modal-help.php:130
 msgctxt "Optional Documentation"
 msgid "If you don't want to click each filled in circle on the right side of each row to indicate the notification has been read, then click the 'Mark All as Read' link at the top to quickly adjust all the messages that they have all been read."
-msgstr "إذا كنت لا تريد النقر فوق كل دائرة مملوءة في الجانب الأيمن من كل صف للإشارة إلى قراءة الإشعار ، فانقر فوق الرابط \"وضع علامة على اجعل الكل مقروء\" في الأعلى لضبط جميع الرسائل التي تحتوي عليها جميعًا بسرعة تمت قراءتها."
+msgstr ""
+"إذا كنت لا تريد النقر فوق كل دائرة مملوءة في الجانب الأيمن من كل صف للإشارة "
+"إلى قراءة الإشعار ، فانقر فوق الرابط \"وضع علامة على اجعل الكل مقروء\" في "
+"الأعلى لضبط جميع الرسائل التي تحتوي عليها جميعًا بسرعة تمت قراءتها."
 
 #: dt-assets/parts/modals/modal-help.php:132
 msgctxt "Optional Documentation"
 msgid "Click the 'Settings' link to go to the notifications settings area to adjust whether you want to see notifications about new comments, contact information changes, Contact Milestones and Group Health metrics, and whether to you will receive a notification for any update that happens in the system."
-msgstr "انقر على رابط \"الإعدادات\" للانتقال إلى منطقة إعدادات الإشعارات لضبط ما إذا كنت تريد رؤية إشعارات حول التعليقات الجديدة ، وتغييرات معلومات الاتصال ، ومراحل جهة الاتصال ومقاييس صحة المجموعة ، وما إذا كنت ستتلقى إشعارًا بأي تحديث يحدث في النظام."
+msgstr ""
+"انقر على رابط \"الإعدادات\" للانتقال إلى منطقة إعدادات الإشعارات لضبط ما إذا "
+"كنت تريد رؤية إشعارات حول التعليقات الجديدة ، وتغييرات معلومات الاتصال ، "
+"ومراحل جهة الاتصال ومقاييس صحة المجموعة ، وما إذا كنت ستتلقى إشعارًا بأي "
+"تحديث يحدث في النظام."
 
 #: dt-assets/parts/modals/modal-help.php:137
 msgctxt "Optional Documentation"
@@ -2539,7 +2614,10 @@ msgstr "جهات الاتصال المتكرّرة"
 #: dt-assets/parts/modals/modal-help.php:138
 msgctxt "Optional Documentation"
 msgid "This Duplicate Contact Page is where you can review, decline or merge contacts that have been picked up by the system (checking against their name, email and phone) as possibly being duplicates of another already existing contact."
-msgstr "صفحة جهة الاتصال المكررة هذه هي المكان الذي يمكنك فيه مراجعة جهات الاتصال التي تم التقاطها بواسطة النظام أو رفضها أو دمجها (التحقق من الاسم والبريد الإلكتروني والهاتف) باعتبارها نسخًا مكررة لجهة اتصال أخرى موجودة بالفعل."
+msgstr ""
+"صفحة جهة الاتصال المكررة هذه هي المكان الذي يمكنك فيه مراجعة جهات الاتصال "
+"التي تم التقاطها بواسطة النظام أو رفضها أو دمجها (التحقق من الاسم والبريد "
+"الإلكتروني والهاتف) باعتبارها نسخًا مكررة لجهة اتصال أخرى موجودة بالفعل."
 
 #: dt-assets/parts/modals/modal-help.php:159
 #: dt-assets/parts/modals/modal-help.php:184
@@ -2636,7 +2714,9 @@ msgstr "في طور التدريب"
 #: dt-contacts/dmm-module.php:60
 msgctxt "Optional Documentation"
 msgid "Assign which milestones the contact has reached in their faith journey. These are points in a contact’s spiritual journey worth celebrating but can happen in any order."
-msgstr "حدد المراحل التي وصل إليها الاتصال في رحلة الإيمان. هذه نقاط في الرحلة الروحية لجهة اتصال تستحق الاحتفال ولكن يمكن أن تحدث بأي ترتيب."
+msgstr ""
+"حدد المراحل التي وصل إليها الاتصال في رحلة الإيمان. هذه نقاط في الرحلة "
+"الروحية لجهة اتصال تستحق الاحتفال ولكن يمكن أن تحدث بأي ترتيب."
 
 #: dt-contacts/dmm-module.php:64
 msgid "Has Bible"
@@ -2736,7 +2816,9 @@ msgstr "سبب الإيقاف"
 #: dt-contacts/access-module.php:240
 msgctxt "Optional Documentation"
 msgid "A paused contact is one you are not currently interacting with but expect to in the future."
-msgstr "جهة الاتصال المتوقفة مؤقتًا هي تلك التي لا تتفاعل معها حاليًا ولكن تتوقعها في المستقبل."
+msgstr ""
+"جهة الاتصال المتوقفة مؤقتًا هي تلك التي لا تتفاعل معها حاليًا ولكن تتوقعها "
+"في المستقبل."
 
 #: dt-contacts/access-module.php:248
 msgid "Reason Closed"
@@ -2997,7 +3079,8 @@ msgstr "مضاعف"
 #: dt-groups/base-setup.php:454
 msgctxt "Optional Documentation"
 msgid "Number of people helping start other groups. How many members are multiplying?"
-msgstr "عدد الأشخاص الذين يساعدون في بدء مجموعات أخرى. كم عدد الأعضاء الذين يتضاعفون؟"
+msgstr ""
+"عدد الأشخاص الذين يساعدون في بدء مجموعات أخرى. كم عدد الأعضاء الذين يتضاعفون؟"
 
 #: dt-groups/base-setup.php:258
 msgctxt "Optional Documentation"
@@ -3023,7 +3106,9 @@ msgstr "مجموعة أسست هذه المجموعة."
 #, fuzzy
 msgctxt "Optional Documentation"
 msgid "A related group that isn't a parent/child in relationship. It might indicate groups that collaborate, are about to merge, recently split, etc."
-msgstr "مجموعة ذات صلة ليست من علاقة اصلية / فرعية. قد يشير إلى المجموعات التي تتعاون ، على وشك الاندماج ، والانقسام مؤخرًا ، وما إلى ذلك."
+msgstr ""
+"مجموعة ذات صلة ليست من علاقة اصلية / فرعية. قد يشير إلى المجموعات التي "
+"تتعاون ، على وشك الاندماج ، والانقسام مؤخرًا ، وما إلى ذلك."
 
 #: dt-groups/base-setup.php:347
 msgctxt "Optional Documentation"
@@ -3038,7 +3123,9 @@ msgstr "لقد تمّ تعيين هذا المتصل لك"
 #: dt-groups/base-setup.php:151
 msgctxt "Optional Documentation"
 msgid "The person who planted and/or is coaching this group. Only one person can be assigned to a group while multiple people can be coaches / church planters of this group."
-msgstr "الشخص الذي زرع هذه المجموعة و / أو يقوم بتدريبها. يمكن تعيين شخص واحد فقط لمجموعة بينما يمكن أن يكون عدة أشخاص مدربين / زارعي الكنيسة في هذه المجموعة."
+msgstr ""
+"الشخص الذي زرع هذه المجموعة و / أو يقوم بتدريبها. يمكن تعيين شخص واحد فقط "
+"لمجموعة بينما يمكن أن يكون عدة أشخاص مدربين / زارعي الكنيسة في هذه المجموعة."
 
 #: dt-metrics/combined/time-charts.php:113
 #: dt-metrics/contacts/milestones.php:68
@@ -3113,7 +3200,9 @@ msgstr "البحث في المواقع"
 
 #: dt-users/template-user-management.php:308
 msgid "Set the dates you will be unavailable so the Dispatcher will know your availability to receive new contacts"
-msgstr "قم بتعيين التواريخ التي ستكون غير متاح فيها حتى يعرف المرسل مدى تواجدك لتلقي جهات اتصال جديدة"
+msgstr ""
+"قم بتعيين التواريخ التي ستكون غير متاح فيها حتى يعرف المرسل مدى تواجدك لتلقي "
+"جهات اتصال جديدة"
 
 #: dt-users/template-user-management.php:319
 msgid "Travel or Away Dates"
@@ -3194,7 +3283,9 @@ msgstr "اختيار"
 #: dt-groups/base-setup.php:599
 msgctxt "Add members modal"
 msgid "In the 'Member List' field, type the name of an existing contact to add them to this group."
-msgstr "في حقل \"قائمة الأعضاء\" ، اكتب اسم جهة اتصال موجودة لإضافتها إلى هذه المجموعة."
+msgstr ""
+"في حقل \"قائمة الأعضاء\" ، اكتب اسم جهة اتصال موجودة لإضافتها إلى هذه "
+"المجموعة."
 
 #: dt-notifications/notifications.php:477
 msgid "%s minute ago"
@@ -3632,7 +3723,9 @@ msgstr "كل المصادر - تتيح الدخول إلى كافة جهات ا�
 #: dt-users/template-user-management.php:476
 #: dt-users/user-hooks-and-config.php:550
 msgid "Custom - Access own contacts and all the contacts of the selected sources below"
-msgstr "مخصص - الدخول إلى جهات الاتصال الخاصة وجميع جهات الاتصال الخاصة بالمصادر المحددة أدناه"
+msgstr ""
+"مخصص - الدخول إلى جهات الاتصال الخاصة وجميع جهات الاتصال الخاصة بالمصادر "
+"المحددة أدناه"
 
 #: dt-users/template-user-management.php:482
 #: dt-users/user-hooks-and-config.php:557
@@ -4200,7 +4293,9 @@ msgstr "استنساخ جهات اتصال الوصول"
 
 #: template-view-duplicates.php:27
 msgid "Scanning for duplicates starting with the most recently modified contacts. Results are limited to ones that have less than 10 exact matches."
-msgstr "الفحص للاستنساخ يبدأ بجهات الاتصال المعدلة حديثًا. النتائج محدودة للجهات التي لها أقل من 10 تطابقات كاملة."
+msgstr ""
+"الفحص للاستنساخ يبدأ بجهات الاتصال المعدلة حديثًا. النتائج محدودة للجهات "
+"التي لها أقل من 10 تطابقات كاملة."
 
 #: template-view-duplicates.php:30
 msgctxt "Access contact scanned: 100"
@@ -4317,7 +4412,8 @@ msgstr "اطلب الوصول للتسجيل"
 
 #: 403.php:49
 msgid "Record owner to be notified of access request. Are you happy to proceed?"
-msgstr "سيتم إخطار مالك التسجيل بطلب الوصول. هل ترغب\n"
+msgstr ""
+"سيتم إخطار مالك التسجيل بطلب الوصول. هل ترغب\n"
 "بالمتابعة؟"
 
 #: 403.php:52
@@ -4363,7 +4459,9 @@ msgstr "حزين"
 #: dt-posts/dt-posts.php:1649
 msgctxt "@[user name][user_id] - User Fred has requested access to Contact [contact name][contact_id]. If desired, share this record with the user to grant access."
 msgid "@[%1$s](%2$s) - User %3$s has requested access to %4$s [%5$s](%6$s). If desired, share this record with the user to grant access."
-msgstr "@[%1$s](%2$s) - User %3$s طلب الوصول إلى  %4$s [%5$s](%6$s). إذا كنت ترغب، شارك هذا التسجيل مع المستخدم لضمان الوصول."
+msgstr ""
+"@[%1$s](%2$s) - User %3$s طلب الوصول إلى  %4$s [%5$s](%6$s). إذا كنت ترغب، "
+"شارك هذا التسجيل مع المستخدم لضمان الوصول."
 
 #: dt-posts/dt-posts.php:1655
 msgid "Access Request"
@@ -4398,7 +4496,10 @@ msgstr "حملات التسويق أو أنشطة الوصول التي تفاع
 #: dt-groups/base-setup.php:286
 msgctxt "Optional Documentation"
 msgid "The number of members in this group. It will automatically be updated when new members are added or removed in the member list. Change this number manually to include people who may not be in the system but are also members of the group."
-msgstr "عدد الأعضاء في هذه المجموعة. سيتم تحديثه تلقائياً عند إضافة أعضاء جدد أو إزالتهم من قائمة الأعضاء. قم بتغيير هذا الرقم يدوياً لتضمين الأشخاص الذين قد لا يكونون في النظام ولكنهم أيضاً أعضاء في المجموعة."
+msgstr ""
+"عدد الأعضاء في هذه المجموعة. سيتم تحديثه تلقائياً عند إضافة أعضاء جدد أو "
+"إزالتهم من قائمة الأعضاء. قم بتغيير هذا الرقم يدوياً لتضمين الأشخاص الذين قد "
+"لا يكونون في النظام ولكنهم أيضاً أعضاء في المجموعة."
 
 #: dt-metrics/combined/time-charts.php:42
 #: dt-metrics/combined/time-charts.php:106
@@ -5057,4 +5158,3 @@ msgstr ""
 #: template-new-post.php:45
 msgid "Add Bulk Records?"
 msgstr ""
-
