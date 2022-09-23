@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/disciple-tools-"
 "theme\n"
 "POT-Creation-Date: 2022-05-05T15:45:48+00:00\n"
-"PO-Revision-Date: 2022-09-22 13:16+0000\n"
+"PO-Revision-Date: 2022-09-23 14:09+0000\n"
 "Last-Translator: corsacca <corsacca@gmail.com>\n"
 "Language-Team: French <https://translate.disciple.tools/projects/"
 "disciple-tools/disciple-tools-theme/fr/>\n"
@@ -3890,6 +3890,7 @@ msgid "Tags"
 msgstr "Étiquettes"
 
 #: dt-posts/custom-post-type.php:180
+#, fuzzy
 msgctxt "Optional Documentation"
 msgid "A useful way to group related items."
 msgstr "Un moyen utile de regrouper les éléments liés."
